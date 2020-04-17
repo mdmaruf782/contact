@@ -1,0 +1,19 @@
+{
+    "name": "mdmaruf/contact",
+    "description": "This will send email",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mdmaruf",
+            "email": "mdmaruf782@gmai.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Mdmaruf\\Contact\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
